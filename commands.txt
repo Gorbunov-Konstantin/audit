@@ -1,0 +1,3 @@
+g++ audit.cpp -o audit -std=c++17
+ps –aux – для отслеживания pid
+sudo ./audit <pid> - для запуска программы
